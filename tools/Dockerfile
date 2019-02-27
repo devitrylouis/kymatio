@@ -9,7 +9,6 @@ RUN apt-get update && \
       python3-scipy \
       python3-appdirs \
       python3-pytest \
-      python3-pytest-cov \
       python3-pip \
       python3-venv \
       && \
